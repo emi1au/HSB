@@ -1,0 +1,5 @@
+{
+  "name": "Cafe POS System",
+  "description": "A Point of Sale system for a cafe with product grid and cart.",
+  "requestFramePermissions": []
+}
